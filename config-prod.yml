@@ -1,2 +1,2 @@
-server
- prot: 3366
+config:
+ info: "main branch,springcloud-config/config-prod.yml version=1"
